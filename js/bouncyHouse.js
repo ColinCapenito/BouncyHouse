@@ -12,8 +12,6 @@ var dyList = new Array();
 var rect = canvas.getBoundingClientRect();
 var canvasWidth = rect.right - rect.left;
 var canvasHeight = rect.bottom - rect.top;
-alert(canvasWidth);
-alert(canvasHeight);
 var listOfColors = [ "MediumSlateBlue", "PaleGreen", "Purple",
 "Red", "SkyBlue", "RoyalBlue", "Tomato", "Yellow", "SpringGreen", "Teal", "MediumAquaMarine", "Magenta",
 "Lime", "Indigo", "IndianRed", "FireRed", "DarkOrange", "Cyan"];
