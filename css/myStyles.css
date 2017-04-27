@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: springgreen;
+}
+
+#myCanvasDiv {
+	width: 100%;
+}
+
+#myCanvas {
+	display: block;
+	margin: auto;
+	background-color: linen;
+	border: 5px solid dodgerblue;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Baloo', cursive;
+	color: dodgerblue;
+	font-size: 2.5em;
+}
+
+#menuBar {
+	text-align: center;
+}
